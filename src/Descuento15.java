@@ -10,6 +10,6 @@ public class Descuento15 {
         System.out.println("Descuento del 15%: $" + descuento);
         System.out.println("*****************************");
         System.out.println("Precio final: $" + precioFinal);
-        System.out.println("*****************************+")
+        System.out.println("*****************************+");
     }
 }
