@@ -1,4 +1,4 @@
-Import java.util.Scanner;
+import java.util.Scanner;
 
 public class Descuento5 {
     public static void aplicarDescuento5(){
